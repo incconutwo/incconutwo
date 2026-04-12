@@ -12,6 +12,7 @@ I’m a 16-year-old developer from Morocco 🇲🇦, currently studying **Mathem
 </p>
 
 *   **[X/Twitter Country Flags & Blocker](https://github.com/incconutwo/twitter-account-location-in-username)** - Enhancing the X experience with country detection and filtering. (Used by 500+ daily active users).
+*   **[Gemini Cleaner](https://github.com/incconutwo/gemini-cleaner)** – A lightweight extension to hide "Upgrade to Ultra" ads and banners on Gemini for a cleaner, distraction-free AI experience.
 *   **[Google AI Overview Disabler](https://github.com/incconutwo/Google-AI-Overview-Disabler)** - A minimalist tool to reclaim search results. Built with a focus on performance and "zero-bloat" architecture.
 *   **Aurora** - A series of clean UX/UI enhancements for AI interfaces.
     *   [Aurora for ChatGPT](https://github.com/TG-TG-TG-TG-TG-TG/Aurora-for-ChatGPT) 
