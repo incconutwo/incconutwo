@@ -8,7 +8,7 @@ I’m a 16-year-old developer from Morocco 🇲🇦, currently studying **Mathem
 
 ### 🧩 Featured Projects
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19df0109-6df8-4e34-b89d-90a337e25a9b" alt="Featured Projects Banner" width="100%">
+  <img src="https://github.com/user-attachments/assets/19df0109-6df8-4e34-b89d-90a337e25a9b" alt="Featured Projects Banner of incconu_two profile" width="100%">
 </p>
 
 *   **[X/Twitter Country Flags & Blocker](https://github.com/incconutwo/twitter-account-location-in-username)** - Enhancing the X experience with country detection and filtering. (Used by 500+ daily active users).
@@ -36,7 +36,7 @@ I’m a 16-year-old developer from Morocco 🇲🇦, currently studying **Mathem
       </ul>
     </td>
     <td width="30%" style="border: none; vertical-align: middle;">
-      <img src="https://github.com/user-attachments/assets/9b0012b7-d9a1-48b4-b922-1bddc826ae95" alt="Local Guide Profile" width="100%">
+      <img src="https://github.com/user-attachments/assets/9b0012b7-d9a1-48b4-b922-1bddc826ae95" alt="Local Guide Profile of incconu_two" width="100%">
     </td>
   </tr>
 </table>
@@ -70,10 +70,10 @@ I believe software should respect the user. That means no hidden tracking, no un
 <table align="center">
   <tr>
     <td style="border: none;">
-      <img src="https://github-readme-stats-nine-liart-90.vercel.app/api?username=incconutwo&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&count_private=true&border_radius=12" alt="General Stats" height="180px">
+      <img src="https://github-readme-stats-nine-liart-90.vercel.app/api?username=incconutwo&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&count_private=true&border_radius=12" alt="Github General Stats of incconu_two" height="180px">
     </td>
     <td style="border: none;">
-      <img src="https://github-readme-stats-nine-liart-90.vercel.app/api/top-langs/?username=incconutwo&layout=compact&theme=radical&border_radius=12&hide=jupyter%20notebook" alt="Top Languages" height="180px">
+      <img src="https://github-readme-stats-nine-liart-90.vercel.app/api/top-langs/?username=incconutwo&layout=compact&theme=radical&border_radius=12&hide=jupyter%20notebook" alt="Top Languages of incconu_two" height="180px">
     </td>
   </tr>
 </table>
