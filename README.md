@@ -1,7 +1,12 @@
 # Hi there, I'm incconu_two 👋
 
 ### 🛠️ Web & Chrome Extension Developer | Open Source Contributor
-I’m a 16-year-old developer from Morocco 🇲🇦, currently studying **Mathematical Sciences**. I specialize in building practical, high-performance tools that solve real-world problems with a focus on **privacy** and **zero bloat**.
+**I build fast, privacy-first browser tools used by real people.**
+
+Chrome extension developer focused on **privacy**, **performance, clean UX, and zero-bloat architecture**.  
+Shipping tools that remove noise, fix broken interfaces, and give users control back.
+
+Currently 16, based in Morocco 🇲🇦 — studying Mathematical Sciences.
 > "Software should respect the user: No tracking, no junk, just performance."
 
 ---
@@ -11,9 +16,12 @@ I’m a 16-year-old developer from Morocco 🇲🇦, currently studying **Mathem
   <img src="https://github.com/user-attachments/assets/19df0109-6df8-4e34-b89d-90a337e25a9b" alt="Featured Projects Banner of incconu_two profile" width="100%">
 </p>
 
-*   **[X/Twitter Country Flags & Blocker](https://github.com/incconutwo/twitter-account-location-in-username)** - Enhancing the X experience with country detection and filtering. (Used by 500+ daily active users).
+*   **[X/Twitter Country Flags & Blocker](https://github.com/incconutwo/twitter-account-location-in-username)** - Enhances X with **country detection + filtering** to reduce noise and improve feed quality  
+→ Used by **700+ daily users**
+
 *   **[Gemini Cleaner](https://github.com/incconutwo/gemini-cleaner)** – A lightweight extension to hide "Upgrade to Ultra" ads and banners on Gemini for a cleaner, distraction-free AI experience.
-*   **[Google AI Overview Disabler](https://github.com/incconutwo/Google-AI-Overview-Disabler)** - A minimalist tool to reclaim search results. Built with a focus on performance and "zero-bloat" architecture.
+*   **[Google AI Overview Disabler](https://github.com/incconutwo/Google-AI-Overview-Disabler)** - Disables AI-generated clutter in Google Search  
+→ Faster, cleaner, user-controlled results
 *   **Aurora** - A series of clean UX/UI enhancements for AI interfaces. (Originally created by **[TG-TG-TG-TG-TG-TG](https://github.com/TG-TG-TG-TG-TG-TG)**; I am a collaborator for these specific projects).
     *   [Aurora for ChatGPT](https://github.com/TG-TG-TG-TG-TG-TG/Aurora-for-ChatGPT) 
     *   [Aurora for Grok](https://github.com/TG-TG-TG-TG-TG-TG/Aurora-for-Grok) 
